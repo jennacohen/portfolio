@@ -1,10 +1,8 @@
 # Jenna Cohen - Work Samples
 
-I’m Jenna Cohen, a visual journalist who should be the next Graphics Multimedia Editor at The New York Times.
+I’m Jenna Cohen, a visual journalist who can sit at the center of a project and propel it forward.
 
-I’m a person who can sit at the center of a project and propel it forward. I’m inspired by the work The New York Times graphics team produces for both breaking and enterprise stories, and I believe my involvement would be an advantage for future graphics and visualizations.
-
-Below are some pieces that demonstrate my passion for this work and the skills I’ve developed that would be an asset to your newsroom.
+Below are some pieces that demonstrate my passion for this work and the skills I have.
 
 ## [Quiz: Are You A Smart Shopper?](https://www.pbs.org/newshour/features/smart-shopping-quiz/)
 
