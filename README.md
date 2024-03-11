@@ -51,7 +51,7 @@ Ahead of the 2023 State of the Union, I worked with reporters and editors to loo
 - Data reporting
 - Data visualization: Google Sheets, Illustrator
 
-<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.pngg" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
+<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.png" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
 
 ## [Elaine Massacre Mini Documentary](https://www.youtube.com/watch?v=t5dwfbmb328)
 
