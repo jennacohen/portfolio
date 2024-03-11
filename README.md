@@ -12,7 +12,7 @@ As food prices have risen due to factors such as inflation, I worked with member
 
 **My role:**
 
-- Data reporting
+- Data reporting and analysis: Google Sheets
 - Interface design: Figma
 - Development: HTML, CSS, JavaScript, GitHub, WordPress
 
@@ -20,11 +20,11 @@ As food prices have risen due to factors such as inflation, I worked with member
 
 ## [Here’s what the pregnant and uninsured face in South Dakota](https://www.pbs.org/newshour/nation/how-south-dakota-voters-could-help-save-the-lives-of-uninsured-moms)
 
-In 2022, one out of 10 South Dakotans don’t have health insurance, according to the Census Bureau. I worked alongside our health reporter to coordinate resources and gather data in South Dakota, visualized data in a static chart and interactive map, and customized the page layout in our CMS to highlight key quotes, photography, and side stories.
+In 2022, one out of 10 South Dakotans didn’t have health insurance, according to the Census Bureau. I worked alongside our health reporter to coordinate resources and gather data in South Dakota, visualized data in a static chart and interactive map, and customized the page layout in our CMS to highlight key quotes, photography, and side stories.
 
 **My role:**
 
-- Data reporting
+- Data reporting and analysis: Google Sheets
 - Coordinating photographer based in South Dakota
 - Information graphic design: Illustrator, Datawrapper
 - Interface design: HTML, CSS, WordPress
@@ -37,7 +37,7 @@ Support for abortion rights overall has increased as state legislatures and cour
 
 **My role:**
 
-- Data analysis
+- Data analysis and analysis: Google Sheets
 - Data visualization: Google Sheets, Illustrator
 
 <a href="https://www.pbs.org/newshour/politics/the-state-of-our-union-in-6-charts"><kbd><img src="images/sotu-data.jpeg" alt="State of the Union data graphic thumbnail" width="250px"></kbd></a>
@@ -48,7 +48,7 @@ Ahead of the 2023 State of the Union, I worked with reporters and editors to loo
 
 **My role:**
 
-- Data reporting
+- Data reporting and analysis: Google Sheets
 - Data visualization: Google Sheets, Illustrator
 
 <a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.png" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
