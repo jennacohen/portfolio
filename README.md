@@ -1,6 +1,6 @@
 # Jenna Cohen - Work Samples
 
-I’m Jenna Cohen, a visual journalist who can sit at the center of a project and propel it forward.
+I’m Jenna Cohen, a visual journalist experienced in using everything from motion graphics and data visualization to photography and design to product content that is accurate, digestible and engaging.
 
 Below are some pieces that demonstrate my passion for this work and the skills I have.
 
