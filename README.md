@@ -16,6 +16,20 @@ As food prices have risen due to factors such as inflation, I worked with member
 - Interface design: Figma
 - Development: HTML, CSS, JavaScript, GitHub, WordPress
 
+<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.png" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
+
+### [Elaine Massacre Mini Documentary](https://www.youtube.com/watch?v=t5dwfbmb328)
+
+As a feature piece of the [Printing Hate](https://lynching.cnsmaryland.org/) project, the documentary explains the economic motives behind the Elaine Massacre and how white-owned newspapers fueled the violence. I combined archives, custom illustrations, interviews, data visualizations, and motion graphics to tell this story.
+
+**My role:**
+
+- Animation and video editing: After Effects, Premiere
+- Mapping and data visualization: Carto, Datawrapper, Illustrator, Photoshop
+- Illustration and Design: Illustrator, Procreate
+- Script development
+- Project management
+
 <a href="https://www.pbs.org/newshour/nation/how-south-dakota-voters-could-help-save-the-lives-of-uninsured-moms"><kbd><img src="images/sd-medicaid.jpg" alt="South Dakota medicaid story thumbnail" width="250px"></kbd></a>
 
 ### [Here’s what the pregnant and uninsured face in South Dakota](https://www.pbs.org/newshour/nation/how-south-dakota-voters-could-help-save-the-lives-of-uninsured-moms)
@@ -50,17 +64,3 @@ Ahead of the 2023 State of the Union, I worked with reporters and editors to loo
 
 - Data reporting and analysis: Google Sheets
 - Data visualization: Google Sheets, Illustrator
-
-<a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.png" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
-
-### [Elaine Massacre Mini Documentary](https://www.youtube.com/watch?v=t5dwfbmb328)
-
-As a feature piece of the [Printing Hate](https://lynching.cnsmaryland.org/) project, the documentary explains the economic motives behind the Elaine Massacre and how white-owned newspapers fueled the violence. I combined archives, custom illustrations, interviews, data visualizations, and motion graphics to tell this story.
-
-**My role:**
-
-- Animation and video editing: After Effects, Premiere
-- Mapping and data visualization: Carto, Datawrapper, Illustrator, Photoshop
-- Illustration and Design: Illustrator, Procreate
-- Script development
-- Project management
