@@ -1,6 +1,6 @@
 # Jenna Cohen - Work Samples
 
-I’m Jenna Cohen, a visual journalist experienced in using everything from motion graphics and data visualization to photography and design to produce content that is accurate, digestible and engaging.
+I’m Jenna Cohen, a visual journalist experienced in using everything from motion graphics and data visualization to illustration and design to produce content that is accurate, digestible and engaging.
 
 Below are some pieces that demonstrate my passion for this work and the skills I have.
 
@@ -14,6 +14,7 @@ As food prices have risen due to factors such as inflation, I worked with member
 
 - Data reporting and analysis: Google Sheets
 - Interface design: Figma
+- Illustration and graphic design: Illustrator
 - Development: HTML, CSS, JavaScript, GitHub, WordPress
 
 <a href="https://www.youtube.com/watch?v=t5dwfbmb328"><kbd><img src="images/elaine.png" alt="Elaine Massacre motion graphic thumbanil" width="250px"></kbd></a>
@@ -26,7 +27,7 @@ As a feature piece of the [Printing Hate](https://lynching.cnsmaryland.org/) pro
 
 - Animation and video editing: After Effects, Premiere
 - Mapping and data visualization: Carto, Datawrapper, Illustrator, Photoshop
-- Illustration and Design: Illustrator, Procreate
+- Illustration and design: Illustrator, Procreate
 - Script development
 - Project management
 
@@ -40,7 +41,7 @@ In 2022, one out of 10 South Dakotans didn’t have health insurance, according 
 
 - Data reporting and analysis: Google Sheets
 - Coordinating photographer based in South Dakota
-- Information graphic design: Illustrator, Datawrapper
+- Data visualization: Illustrator, Datawrapper
 - Interface design: HTML, CSS, WordPress
 
 <a href="https://www.pbs.org/newshour/health/support-for-abortion-rights-has-grown-in-spite-of-bans-and-restrictions-poll-shows"><kbd><img src="images/abortion-opinions.jpeg" alt="Rep. George Santos arrested graphic" width="250px"></kbd></a>
